@@ -28,7 +28,7 @@ def get_UFs(html):
     
     lista_com_UFs = []
     
-    for index, UF_estado in enumerate(lista_com_UF_desformatada):
+    for index in range(lista_com_UF_desformatada):
         
         UF = lista_com_UF_desformatada[index]['value']
         
