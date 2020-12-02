@@ -4,6 +4,8 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import re
 import time
+import constantes
+
 
 def get_html(url):
     
@@ -73,48 +75,37 @@ def write_json(data):
     with open('lojas_renner.json', 'w') as jsonfile:
 
         json.dump(data,jsonfile,indent = 2)
-   
-url = 'https://www.lojasrenner.com.br/nossas-lojas'
 
-response = get_html(url)
+def main():
+    response = get_html(constantes.url["lojas_renner_principal"])
 
-lista_com_UFs = get_UFs(response)
+    lista_com_UFs = get_UFs(response)
 
-lista_lojas = []
+    lista_lojas = []
 
-for UF in lista_com_UFs:
-    
-    url2 = f'https://www.lojasrenner.com.br/store/renner/br/cartridges/OurStores/fragments/ourStoresList.jsp?state={UF}'
-    
-    time.sleep(0.1)
-    r = get_html(url2)
-    
-    soup_object = BeautifulSoup(r, 'lxml')
+    for UF in lista_com_UFs:
+        
+        url_por_estado = f'{constantes.url["lojas_renner_por_uf"]}{UF}'
+        
+        time.sleep(0.1)
+        r = get_html(url_por_estado)
+        
+        soup_object = BeautifulSoup(r, 'lxml')
 
-    locais = soup_object.find_all('div', class_ = 'seacrh_result')
-    
-    for local in locais:
+        locais = soup_object.find_all('div', class_ = 'seacrh_result')
+        
+        for local in locais:
 
-        loja = {
-            'UF':UF,
-            'estabelecimento': get_store_establishment(local), 
-            'endereco': get_store_address(local), 
-            'numero': get_store_address_number(local)
-        }
+            loja = {
+                'UF':UF,
+                'estabelecimento': get_store_establishment(local), 
+                'endereco': get_store_address(local), 
+                'numero': get_store_address_number(local)
+            }
 
-        lista_lojas.append(loja)
+            lista_lojas.append(loja)
 
-write_json(lista_lojas)
+    write_json(lista_lojas)
 
-    #print(json.dumps(lista_lojas, indent=2))
-
-        # total_lojas = get_number_of_stores(r)
-        # estabelecimento_loja = get_store_establishment(r)
-        # endereco_loja = get_store_address(r)
-        # numero_loja = get_store_address_number(r)
-
-        # print(UF)
-        # print(total_lojas)
-        # print(estabelecimento_loja)
-        # print(endereco_loja)
-        # print(numero_loja)
+if __name__ == "__main__":
+    main()

@@ -1765,15 +1765,15 @@
   },
   {
     "UF": "SP",
-    "estabelecimento": "Shopping Colinas",
-    "endereco": "AVENIDA SAO JOAO",
-    "numero": "2200"
-  },
-  {
-    "UF": "SP",
     "estabelecimento": "Shopping Litoral Plaza",
     "endereco": "AVENIDA AYRTON SENNA DA SILVA",
     "numero": "N\u00ba 1511,"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Colinas",
+    "endereco": "AVENIDA SAO JOAO",
+    "numero": "2200"
   },
   {
     "UF": "SP",
@@ -2161,15 +2161,15 @@
   },
   {
     "UF": "SP",
-    "estabelecimento": "Shopping Centervale",
-    "endereco": "AVENIDA D. BENEDITO MATARAZZO",
-    "numero": "9403"
-  },
-  {
-    "UF": "SP",
     "estabelecimento": "Shopping Continental - RENNER. ",
     "endereco": "AVENIDA LEAO MACHADO",
     "numero": "100"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Centervale",
+    "endereco": "AVENIDA D. BENEDITO MATARAZZO",
+    "numero": "9403"
   },
   {
     "UF": "SP",
