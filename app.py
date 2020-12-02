@@ -7,7 +7,7 @@ import time
 import constantes
 
 
-def get_html(url):
+def get_html(url): # retorna a string que será analisada no construtor BeautifulSoup
     
     response = requests.get(url)
     
@@ -18,7 +18,7 @@ def get_html(url):
         print(f'code: {response.status_code} for {url}')
         
 
-def get_UFs(html):
+def get_UFs(html): # retorna a lista com todas as UFs, retiradas do site. 
     
     soup = BeautifulSoup(html, 'lxml')
     
@@ -34,10 +34,10 @@ def get_UFs(html):
         
         lista_com_UFs.append(UF)
         
-    return lista_com_UFs 
+    return lista_com_UFs  
         
 
-def get_number_of_stores(html): #encontrando o numero de lojas no estado.
+def get_number_of_stores(html): #encontrando o numero de lojas no estado. Não foi usada em main()
     
     BSobj = BeautifulSoup(html, 'lxml')
     
@@ -50,27 +50,27 @@ def get_number_of_stores(html): #encontrando o numero de lojas no estado.
     return numero[0]
 
 
-def get_store_establishment(local):
+def get_store_establishment(local): #retorna o estabelecimento (shopping,loja...)
     
     estabelecimento = local.find_all('p')[0].text
         
     return estabelecimento
 
 
-def get_store_address(local):
+def get_store_address(local): # retorna o endereço (rua, avenida...) da loja.
     
     endereco = local.find_all('p')[1].text
         
     return endereco
 
 
-def get_store_address_number(local):
+def get_store_address_number(local): # retorna o numero do endereço da loja.
         
     number = local.find_all('p')[2].text
         
     return number
 
-def write_json(data):
+def write_json(data): # retorna um arquivo json
 
     with open('lojas_renner.json', 'w') as jsonfile:
 
@@ -87,7 +87,6 @@ def main():
         
         url_por_estado = f'{constantes.url["lojas_renner_por_uf"]}{UF}'
         
-        time.sleep(0.1)
         r = get_html(url_por_estado)
         
         soup_object = BeautifulSoup(r, 'lxml')
