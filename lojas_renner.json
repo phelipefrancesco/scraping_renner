@@ -1,0 +1,2312 @@
+[
+  {
+    "UF": "AC",
+    "estabelecimento": "Shopping Via Verde",
+    "endereco": "ESTRADA DA FLORESTA",
+    "numero": "1707"
+  },
+  {
+    "UF": "AL",
+    "estabelecimento": "Shopping Iguatemi Macei\u00f3 ",
+    "endereco": "AVENIDA GUSTAVO PAIVA",
+    "numero": "2990"
+  },
+  {
+    "UF": "AL",
+    "estabelecimento": "Shopping Parque Shopping Macei\u00f3 ",
+    "endereco": "AVENIDA COMENDADOR GUSTAVO PAIVA",
+    "numero": "5945"
+  },
+  {
+    "UF": "AL",
+    "estabelecimento": "Shopping P\u00e1tio Macei\u00f3",
+    "endereco": "AVENIDA MENINO MARCELO",
+    "numero": "3800"
+  },
+  {
+    "UF": "AL",
+    "estabelecimento": "Shopping Arapiraca Garden",
+    "endereco": "RUA JOSE LEITE BEZERRA",
+    "numero": "S/N"
+  },
+  {
+    "UF": "AM",
+    "estabelecimento": "Loja Centro de Manaus",
+    "endereco": "AVENIDA EDUARDO RIBEIRO",
+    "numero": "600"
+  },
+  {
+    "UF": "AM",
+    "estabelecimento": "Shopping Ponta Negra",
+    "endereco": "AVENIDA CORONEL TEIXEIRA",
+    "numero": "5705"
+  },
+  {
+    "UF": "AM",
+    "estabelecimento": "Shopping Amazonas",
+    "endereco": "AVENIDA DJALMA BATISTA",
+    "numero": "482"
+  },
+  {
+    "UF": "AM",
+    "estabelecimento": "Shopping Manauara",
+    "endereco": "AVENIDA MARIO YPIRANGA",
+    "numero": "1300"
+  },
+  {
+    "UF": "AM",
+    "estabelecimento": "Shopping Manaus Via Norte",
+    "endereco": "AVENIDA ARQUITETO JOSE HENRIQUE BENTO RODRIGUES",
+    "numero": "3760"
+  },
+  {
+    "UF": "AM",
+    "estabelecimento": "Shopping Suma\u00fama Park Shopping",
+    "endereco": "AVENIDA DR. NOEL NUTELS",
+    "numero": "1762"
+  },
+  {
+    "UF": "AP",
+    "estabelecimento": "Shopping Amap\u00e1 Garden",
+    "endereco": "RODOVIA JUSCELINO KUBITSCHEK",
+    "numero": "2141"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Barra Salvador",
+    "endereco": "AVENIDA CENTENARIO",
+    "numero": "2992"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Bela Vista",
+    "endereco": "AL EUVALDO LUZ",
+    "numero": "92"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Norte Salvador ",
+    "endereco": "RODOVIA BA-526",
+    "numero": "305"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Paralela ",
+    "endereco": "AVENIDA LUIS VIANA",
+    "numero": "8544"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Salvador",
+    "endereco": "AVENIDA TANCREDO NEVES",
+    "numero": "2915"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Iguatemi Bahia ",
+    "endereco": "AVENIDA TANCREDO NEVES",
+    "numero": "148"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Boulevard Cama\u00e7ari ",
+    "endereco": "VIA PARAFUSO",
+    "numero": "S/N"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Boulevard Feira",
+    "endereco": "AVENIDA GOVERNADOR JOAO DURVAL CARNEIRO",
+    "numero": "3665"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Conquista Sul",
+    "endereco": "AVENIDA JURACY MAGALHAES",
+    "numero": "3340"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Jequitib\u00e1",
+    "endereco": "AVENIDA AZIS MARON",
+    "numero": "SN"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Ju\u00e1 Garden",
+    "endereco": "LOTEAMENTO CENTRO INDUSTRIAL SAO FRANCISCO",
+    "numero": "331"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "Shopping Boulevard Vit\u00f3ria da Conquista",
+    "endereco": "AVENIDA OLIVIA FLORES",
+    "numero": "2500"
+  },
+  {
+    "UF": "BA",
+    "estabelecimento": "SH Parque da Bahia",
+    "endereco": "Avenida Santos Dumont",
+    "numero": "n\u00ba 4360"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "North Shopping Sobral",
+    "endereco": "AVENIDA MONSENHOR JOS\u00c9 ALO\u00cdSIO PINTO",
+    "numero": "300"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Loja Bar\u00e3o do Rio Branco.",
+    "endereco": "RUA BARAO DO RIO BRANCO",
+    "numero": "1026 e 1030"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Shopping Riomar Fortaleza",
+    "endereco": "RUA LAURO NOGUEIRA",
+    "numero": "1500"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Shopping North Fortaleza.  ",
+    "endereco": "AVENIDA BEZERRA DE MENEZES",
+    "numero": "2450"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Shopping Riomar Kennedy",
+    "endereco": "AVENIDA SARGENTO HERMINIO SAMPAIO",
+    "numero": "3100"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Shopping North Shopping J\u00f3quei",
+    "endereco": "AVENIDA LINEU MACHADO",
+    "numero": "419"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Shopping Parangaba",
+    "endereco": "RUA GERMANO FRANCK",
+    "numero": "300"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Shopping Iguatemi Fortaleza",
+    "endereco": "AVENIDA WASHINGTON SOARES",
+    "numero": "85"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Shopping Via Sul",
+    "endereco": "AVENIDA WASHINGTON SOARES",
+    "numero": "4335"
+  },
+  {
+    "UF": "CE",
+    "estabelecimento": "Shopping Grand Messejana",
+    "endereco": "AVENIDA FREI CIRILO",
+    "numero": "3840"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping Conjunto Nacional",
+    "endereco": "SETOR DE DIVERSOES NORTE",
+    "numero": "CONJUNTO A"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping P\u00e1tio Brasil ",
+    "endereco": "SC/SUL, Q. 07, BL. A",
+    "numero": "80"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping Park Bras\u00edlia",
+    "endereco": "SAI/SO, AREA 6580",
+    "numero": "267"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping Terra\u00e7o",
+    "endereco": "SHC/AOS EA",
+    "numero": "02/08"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping Bras\u00edlia",
+    "endereco": "SETOR COMERCIAL NORTE",
+    "numero": "Qd 5"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping Boulevard Bras\u00edlia",
+    "endereco": "STN",
+    "numero": "S/N"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping Iguatemi Bras\u00edlia",
+    "endereco": "SETOR DE HABITACOES INDIVIDUAIS NORTE \u00bf SHI/NORTE",
+    "numero": "Quadra CA-04"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping DF Plaza",
+    "endereco": "RUA COPAIBA",
+    "numero": "SN"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping Taguatinga ",
+    "endereco": "RUA 210",
+    "numero": "QS 01"
+  },
+  {
+    "UF": "DF",
+    "estabelecimento": "Shopping JK ",
+    "endereco": "NA AREA ESPECIAL",
+    "numero": "1"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Loja Centro de Vit\u00f3ria",
+    "endereco": "AVENIDA PRINCESA ISABEL",
+    "numero": "478"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Shopping Vit\u00f3ria",
+    "endereco": "AVENIDA AMERICO BUAIZ",
+    "numero": "200"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Shopping Praia da Costa",
+    "endereco": "RUA DR. OLIVIO LIRA",
+    "numero": "353"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Shopping Boulevard Vila Velho",
+    "endereco": "RODOVIA DO SOL",
+    "numero": "5000"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Shopping Vila Velha",
+    "endereco": "RUA LUCIANO DAS NEVES",
+    "numero": "2418"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Shopping Moxuara",
+    "endereco": "RODOVIA BR 262",
+    "numero": "SN"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Shopping Mestre \u00c1lvaro",
+    "endereco": "AVENIDA JOAO PALACIOS",
+    "numero": "300"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Shopping Montserrat",
+    "endereco": "AVENIDA ELDES SCHERRER SOUZA",
+    "numero": "2162"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "Shopping P\u00e1tio Mix Linhares",
+    "endereco": "AVENIDA CEREJEIRA",
+    "numero": "300"
+  },
+  {
+    "UF": "ES",
+    "estabelecimento": "SHOPPING SUL",
+    "endereco": "Av. Francisco Lacerda de Aguiar",
+    "numero": "418/420"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "SHOPPING BURITI",
+    "endereco": "AV. RIO VERDE",
+    "numero": "S/N\u00ba"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Sul Valparaiso",
+    "endereco": "RODOVIA BR 040",
+    "numero": "KM 12"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Bougainville",
+    "endereco": "RUA 9",
+    "numero": "1855"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Goi\u00e2nia",
+    "endereco": "AVENIDA T-10",
+    "numero": "1300"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Cerrado",
+    "endereco": "AVENIDA ANHANGUERA",
+    "numero": "10790"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Passeio das \u00c1guas",
+    "endereco": "AVENIDA PERIMETRAL NORTE",
+    "numero": "S/N"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Portal",
+    "endereco": "AVENIDA ANHANGUERA",
+    "numero": "14404"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Flamboyant",
+    "endereco": "AVENIDA JAMEL CECILIO",
+    "numero": "3300"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Brasil Park",
+    "endereco": "AVENIDA BRASIL",
+    "numero": "505"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "Shopping Buriti Rio Verde",
+    "endereco": "RUA O",
+    "numero": "1044"
+  },
+  {
+    "UF": "GO",
+    "estabelecimento": "JATAHY SHOPPING",
+    "endereco": "AVENIDA PRESIDENTE TANCREDO NEVES",
+    "numero": "LUC ANC  E2-08"
+  },
+  {
+    "UF": "MA",
+    "estabelecimento": "Imperatriz Shopping",
+    "endereco": "RODOVIA BR-010",
+    "numero": "100"
+  },
+  {
+    "UF": "MA",
+    "estabelecimento": "Shopping Rio Anil",
+    "endereco": "AVENIDA SAO LUIS REI DA FRANCA",
+    "numero": "8"
+  },
+  {
+    "UF": "MA",
+    "estabelecimento": "Shopping Golden Calhau",
+    "endereco": "AVENIDA DOS HOLANDESES/CONS. HILTON",
+    "numero": "200"
+  },
+  {
+    "UF": "MA",
+    "estabelecimento": "Shopping da Ilha",
+    "endereco": "AVENIDA DANIEL DE LA TOUCHE",
+    "numero": "987"
+  },
+  {
+    "UF": "MA",
+    "estabelecimento": "Shopping S\u00e3o Luis",
+    "endereco": "AVENIDA PROFESSOR CARLOS CUNHA",
+    "numero": "1000"
+  },
+  {
+    "UF": "MA",
+    "estabelecimento": "SHOPPING P\u00c1TIO NORTE",
+    "endereco": "Estrada de S\u00e3o Jos\u00e9 de Ribamar MA 201",
+    "numero": "1000"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Uberaba",
+    "endereco": "AVENIDA SANTA BEATRIZ DA SILVA",
+    "numero": "1501"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Pra\u00e7a Uberaba",
+    "endereco": "AVENIDA LEOPOLDINO DE OLIVEIRA",
+    "numero": "5100"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Via Caf\u00e9 Garden",
+    "endereco": "RUA HUMBERTO PIZZO",
+    "numero": "999"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Serrasul",
+    "endereco": "RODOVIA BR-459",
+    "numero": "Km 107"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Montes Claros.",
+    "endereco": "AVENIDA DONATO QUINTINO",
+    "numero": "90"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Center Uberl\u00e2ndia",
+    "endereco": "AVENIDA JOAO NAVES DE AVILA",
+    "numero": "1331"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Uberl\u00e2ndia",
+    "endereco": "AVENIDA PAULO GRACINDO",
+    "numero": "15"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "SHOPPING SETE LAGOAS",
+    "endereco": "Avenida Ot\u00e1vio Campelo Ribeiro",
+    "numero": " 2801"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Po\u00e7os de Caldas",
+    "endereco": "Av. Silvio Monteiro dos Santos",
+    "numero": "180"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Parque Barbacena Shopping ",
+    "endereco": "Avenida Helena Aguiar de Figueiredo",
+    "numero": "131"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "SHOPPING DIAMONDMALL",
+    "endereco": "Av. Avenida Oleg\u00e1rio Maciel",
+    "numero": " 1.600"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Divin\u00f3polis",
+    "endereco": "Rua Moacir Jos\u00e9 Leite",
+    "numero": "100"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping BH Centro ",
+    "endereco": "RUA GOITACASES",
+    "numero": "85"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "R Shopping Boulevard BH",
+    "endereco": "AVENIDA DOS ANDRADAS",
+    "numero": "3000"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping P\u00e1tio Savassi",
+    "endereco": "AVENIDA DO CONTORNO",
+    "numero": "6061"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Cidade",
+    "endereco": "RUA RIO DE JANEIRO",
+    "numero": "910"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Anchieta Garden ",
+    "endereco": "FRANCISCO DESLANDES",
+    "numero": "900"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Belo Horizonte",
+    "endereco": "RODOVIA BR 356",
+    "numero": "3049"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Via Barreiro",
+    "endereco": "AVENIDA AFONSO VAZ DE MELO",
+    "numero": "640"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Minas Shopping",
+    "endereco": "AVENIDA CRISTIANO MACHADO",
+    "numero": "4000"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Contagem",
+    "endereco": "SEVERINO BALLESTEROS RODRIGUES",
+    "numero": "99"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Del Rey.",
+    "endereco": "AVENIDA PRESID. CARLOS LUZ",
+    "numero": "3001"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Esta\u00e7\u00e3o BH",
+    "endereco": "AVENIDA CRISTIANO MACHADO",
+    "numero": "11833"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Metropolitan Garden",
+    "endereco": "RODOVIA BR 381 FERNAO DIAS",
+    "numero": "Km n 492, 601 ao 493,419"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Governador Valadares",
+    "endereco": "AVENIDA SETE DE SETEMBRO",
+    "numero": "3500"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Itau Power",
+    "endereco": "AVENIDA GENERAL DAVID SARNOFF",
+    "numero": "5160"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Monte Carmo",
+    "endereco": "AVENIDA JUIZ MARCO TULIO ISAAC",
+    "numero": "1119"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Vale Do A\u00e7o",
+    "endereco": "AVENIDA PEDRO LINHARES GOMES",
+    "numero": "3900"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Independ\u00eancia",
+    "endereco": "AVENIDA INDEPENDENCIA",
+    "numero": "3600"
+  },
+  {
+    "UF": "MG",
+    "estabelecimento": "Shopping Jardim Norte",
+    "endereco": "AVENIDA ASSIS BRASIL",
+    "numero": "6345"
+  },
+  {
+    "UF": "MS",
+    "estabelecimento": "Shopping Bosque dos Ip\u00eas",
+    "endereco": "AVENIDA CONSUL ASSAF TRAD",
+    "numero": "4796"
+  },
+  {
+    "UF": "MS",
+    "estabelecimento": "Shopping Campo Grande",
+    "endereco": "AVENIDA AFONSO PENA",
+    "numero": "4909"
+  },
+  {
+    "UF": "MS",
+    "estabelecimento": "Shopping Norte Sul Plaza",
+    "endereco": "AVENIDA PRESIDENTE ERNESTO GEISEL",
+    "numero": "2300"
+  },
+  {
+    "UF": "MS",
+    "estabelecimento": "SHOPPING TR\u00caS LAGOAS",
+    "endereco": "Rodovia BR 158, KM 01",
+    "numero": "km01"
+  },
+  {
+    "UF": "MS",
+    "estabelecimento": "Shopping Center Dourados",
+    "endereco": "AVENIDA  MARCELINO PIRES",
+    "numero": "3600"
+  },
+  {
+    "UF": "MT",
+    "estabelecimento": "Shopping Esta\u00e7\u00e3o Cuiab\u00e1",
+    "endereco": "AVENIDA MIGUEL SUTIL",
+    "numero": "S/N\u00ba"
+  },
+  {
+    "UF": "MT",
+    "estabelecimento": "Rondon Plaza Shopping",
+    "endereco": "AVENIDA ROTARY INTERNACIONAL",
+    "numero": "N\u00b0 1950, "
+  },
+  {
+    "UF": "MT",
+    "estabelecimento": "Shopping Goiabeiras",
+    "endereco": "AVENIDA JOSE MONTEIRO DE FIGUEIREDO DR ZELITO",
+    "numero": "500"
+  },
+  {
+    "UF": "MT",
+    "estabelecimento": "Shopping Pantanal",
+    "endereco": "AVENIDA H.RUBENS DE MENDONCA",
+    "numero": "S/N"
+  },
+  {
+    "UF": "MT",
+    "estabelecimento": "Shopping V\u00e1rzea Grande",
+    "endereco": "RUA PRESIDENTE ARTHUR BERNARDES",
+    "numero": "S/N"
+  },
+  {
+    "UF": "MT",
+    "estabelecimento": "TANGAR\u00c1 SHOPPING CENTER",
+    "endereco": "Av. Vereador Nilo Torres",
+    "numero": "n\u00ba 751"
+  },
+  {
+    "UF": "MT",
+    "estabelecimento": "PARK SHOPPING SORRISO",
+    "endereco": "Avenida Tancredo Neves",
+    "numero": "543"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Tapaj\u00f3s Shopping Center",
+    "endereco": "Av. Eng. Fernando Guilhon",
+    "numero": "S/N"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Shopping P\u00e1tio Belem",
+    "endereco": "TRAVESSA PADRE EUTIQUIO",
+    "numero": "1078"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Shopping Boulevard Bel\u00e9m",
+    "endereco": "AVENIDA VISCONDE DE SOUZA FRANCO",
+    "numero": "776"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Shopping Parque Bel\u00e9m",
+    "endereco": "RODOVIA AUGUSTO MONTENEGRO",
+    "numero": "4300"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Shopping Bosque Gr\u00e3o Para",
+    "endereco": "RODOVIA DOS TRABALHADORES",
+    "numero": "S/N"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Shopping Center Castanheira",
+    "endereco": "RODOVIA BR 316",
+    "numero": "SN"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Shopping Metr\u00f3pole Ananindeua ",
+    "endereco": "RODOVIA BR 316, KM 04",
+    "numero": "4500"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Shopping P\u00e1tio Marab\u00e1.",
+    "endereco": "FOLHA 30, QUADRA 15, LOTE 10",
+    "numero": "S/N"
+  },
+  {
+    "UF": "PA",
+    "estabelecimento": "Shopping Partage Parauapebas.",
+    "endereco": "RODOVIA PA 275",
+    "numero": "SN"
+  },
+  {
+    "UF": "PB",
+    "estabelecimento": "Shopping Mangabeira",
+    "endereco": "AVENIDA HILTON SOUTO MAIOR",
+    "numero": "SN"
+  },
+  {
+    "UF": "PB",
+    "estabelecimento": "Shopping Mana\u00edra",
+    "endereco": "AVENIDA GOV. FLAVIO RIBEIRO COUTINHO",
+    "numero": "220"
+  },
+  {
+    "UF": "PB",
+    "estabelecimento": "Shopping Partage Campina Grande",
+    "endereco": "AVENIDA PREFEITO SEVERINO BEZERRA CABRAL",
+    "numero": "1050"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping Boa Vista",
+    "endereco": "AVENIDA CONDE DA BOA VISTA",
+    "numero": "610"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping Tacaruna",
+    "endereco": "AVENIDA GOVERNADOR AGAMENON MAGALHAES",
+    "numero": "153"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping Recife",
+    "endereco": "RUA PADRE CARAPUCEIRO",
+    "numero": "777"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping Riomar Recife",
+    "endereco": "AVENIDA REPUBLICA DO LIBANO",
+    "numero": "251"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping Paulista North Way",
+    "endereco": "RODOVIA PE 15",
+    "numero": "S/N"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping Guararapes",
+    "endereco": "AVENIDA BARRETO DE MENEZES",
+    "numero": "800"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping North Caruaru",
+    "endereco": "AVENIDA ADJAR DA SILVA CASE",
+    "numero": "800"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping Patteo Olinda Shopping",
+    "endereco": "RUA EDUARDO DE MORAES",
+    "numero": "S/N"
+  },
+  {
+    "UF": "PE",
+    "estabelecimento": "Shopping Camar\u00e1 Shopping Center.",
+    "endereco": "RUA MANOEL HONORATO DA COSTA",
+    "numero": "S/N"
+  },
+  {
+    "UF": "PI",
+    "estabelecimento": "Shopping Rio Poty",
+    "endereco": "AVENIDA MARECHAL CASTELO BRANCO",
+    "numero": "911"
+  },
+  {
+    "UF": "PI",
+    "estabelecimento": "Loja Centro de Teresina",
+    "endereco": "RUA SENADOR TEODORO PACHECO",
+    "numero": "1200"
+  },
+  {
+    "UF": "PI",
+    "estabelecimento": "Shopping Teresina",
+    "endereco": "AVENIDA RAUL LOPES",
+    "numero": "1000"
+  },
+  {
+    "UF": "PI",
+    "estabelecimento": "Shopping Parna\u00edba",
+    "endereco": "AVENIDA SAO SEBASTIAO",
+    "numero": "3429"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Mueller Curitiba",
+    "endereco": "AVENIDA CANDIDO DE ABREU",
+    "numero": "127"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Maring\u00e1 Park",
+    "endereco": "AVENIDA SAO PAULO",
+    "numero": "120"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Palladium Curitiba",
+    "endereco": "RUA EDUARDO CARLOS PEREIRA",
+    "numero": "3604"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Esta\u00e7\u00e3o",
+    "endereco": "AVENIDA SETE DE SETEMBRO",
+    "numero": "2775"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Boulevard Londrina",
+    "endereco": "AVENIDA THEODORO VICTORELLI",
+    "numero": "150"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Curitiba",
+    "endereco": "RUA BRIGADEIRO FRANCO",
+    "numero": "2300"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Londrina",
+    "endereco": "RODOVIA CELSO GARCIA CID",
+    "numero": "Km 377"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping S\u00e3o Jos\u00e9",
+    "endereco": "RUA DONA IZABEL A REDENTORA",
+    "numero": "1434"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Palladium Ponta Grossa",
+    "endereco": "RUA ERMELINO DE LEAO",
+    "numero": "703"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Park Barigui",
+    "endereco": "PROF.PEDRO V.P.SOUZA",
+    "numero": "600"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Jardim das Am\u00e9ricas",
+    "endereco": "AVENIDA NOSSA SENHORA DE LOURDES",
+    "numero": "63"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Cidade Dos Lagos ",
+    "endereco": "AVENIDA PROFESSORA LAURA PACHECO BASTOS",
+    "numero": "1400"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping JL Cascavel",
+    "endereco": "AVENIDA TOLEDO",
+    "numero": "432"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Cidade Paranava\u00ed",
+    "endereco": "END. RUA GETULIO VARGAS",
+    "numero": "N\u00b0 909"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Catuai Maring\u00e1",
+    "endereco": "AVENIDA COLOMBO",
+    "numero": "9161"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Palladium Foz Do Igua\u00e7u",
+    "endereco": "AVENIDA RODOVIA DAS CATARATAS",
+    "numero": "3570"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Jockey Plaza Shopping Center",
+    "endereco": "AVENIDA VICTOR FERREIRA DO AMARAL",
+    "numero": "2633"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Shopping Cataratas JL",
+    "endereco": "AVENIDA COSTA E SILVA",
+    "numero": "185"
+  },
+  {
+    "UF": "PR",
+    "estabelecimento": "Loja Curitiba XV",
+    "endereco": "RUA XV DE NOVEMBRO",
+    "numero": "387"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Teres\u00f3polis",
+    "endereco": "RUA EDMUNDO BITTENCOURT",
+    "numero": "101"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "SHOPPING PARK SUL",
+    "endereco": "Rod VRD 001-Dos Metal\u00fargicos",
+    "numero": "1189"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "CADIMA SHOPPING",
+    "endereco": "Rua Mois\u00e9s Am\u00e9lio",
+    "numero": "17"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Top Shopping",
+    "endereco": "AVENIDA GOVERNADOR ROBERTO SILVEIRA",
+    "numero": "540"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Sider",
+    "endereco": "RUA 12",
+    "numero": "300"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Nova Igua\u00e7u",
+    "endereco": "AVENIDA ABILIO AUGUSTO TAVORA",
+    "numero": "1061"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping P\u00e1tio Mix Resende",
+    "endereco": "RUA DORIVAL MARCONDES DE GODOY",
+    "numero": "S/N"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Boulevard Campos ",
+    "endereco": "RUA DR. SILVIO BASTOS TAVARES",
+    "numero": "316/330"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Loja Visconde de Piraj\u00e1",
+    "endereco": "RUA VISCONDE DE PIRAJ\u00c1 ",
+    "numero": "431"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Loja Sete de Setembro",
+    "endereco": "RUA SETE DE SETEMBRO",
+    "numero": "111"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Bangu Shopping",
+    "endereco": "Rua Fonseca",
+    "numero": "240"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Nova Am\u00e9rica",
+    "endereco": "AVENIDA PASTOR MARTIN LUTHER KING JR",
+    "numero": "126"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Norte",
+    "endereco": "AVENIDA DOM HELDER CAMARA",
+    "numero": "5474"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Tijuca ",
+    "endereco": "AVENIDA MARACANA",
+    "numero": "987"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Boulevard Rio",
+    "endereco": "RUA BARAO DE SAO FRANCISCO",
+    "numero": "236"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Jardim Guadalupe",
+    "endereco": "AVENIDA BRASIL",
+    "numero": "22155"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Carioca",
+    "endereco": "AVENIDA VICENTE DE CARVALHO",
+    "numero": "909"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Madureira",
+    "endereco": "ESTRADA DO PORTELA",
+    "numero": "222"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Recreio Shopping Center",
+    "endereco": "AV. DAS AM\u00c9RICAS",
+    "numero": "N\u00ba 19019"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Loja Copacabana Rio de Janeiro",
+    "endereco": "AVENIDA NOSSA SENHORA DE COPACABANA",
+    "numero": "759"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Loja Largo do Machado",
+    "endereco": "RUA DO CATETE",
+    "numero": "359"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Parque Shopping Sulacap",
+    "endereco": "AVENIDA MARECHAL FONTENELLE",
+    "numero": "SN"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Ilha Plaza ",
+    "endereco": "AVENIDA MAESTRO E SILVA",
+    "numero": "400"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Barra Rio de Janeiro",
+    "endereco": "AVENIDA DAS AMERICAS",
+    "numero": "4666"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Center Rio",
+    "endereco": "AVENIDA GEREMARIO DANTAS",
+    "numero": "404"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Rio Sul",
+    "endereco": "RUA LAURO MULLER",
+    "numero": "116"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Leblon",
+    "endereco": "AVENIDA AFRANIO DE MELO FRANCO",
+    "numero": "290"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "SHOPPING VILLAGEMALL",
+    "endereco": "Av. das Americas",
+    "numero": "3900"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Metropolitano Barra",
+    "endereco": "AVN N-S, PAA 10.292/PAL 38.883",
+    "numero": "135"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Via Parque",
+    "endereco": "AVENIDA AYRTON SENNA",
+    "numero": "3000"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Am\u00e9ricas",
+    "endereco": "AVENIDA DAS AMERICAS",
+    "numero": "15500"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Piratas",
+    "endereco": "ESTRADA DO MARINAS",
+    "numero": "91"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Niter\u00f3i Plaza",
+    "endereco": "RUA XV DE NOVEMBRO",
+    "numero": "8"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Park Campo Grande",
+    "endereco": "ESTRADA DO MONTEIRO",
+    "numero": "1200"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping West Campo Grande",
+    "endereco": "ESTRADA DO MENDANHA",
+    "numero": "550"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Caxias",
+    "endereco": "RODOVIA WASHINGTON LUIZ",
+    "numero": "2895"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Grande Rio",
+    "endereco": "ESTRADA MUNICIPAL SAO JOAO DO MERITI",
+    "numero": "111"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Boulevard S\u00e3o Gon\u00e7alo",
+    "endereco": "AVENIDA PRESIDENTE KENNEDY",
+    "numero": "425"
+  },
+  {
+    "UF": "RJ",
+    "estabelecimento": "Shopping Itabora\u00ed",
+    "endereco": "RODOVIA BR 101",
+    "numero": "SN"
+  },
+  {
+    "UF": "RN",
+    "estabelecimento": "Thru Shopping Midway",
+    "endereco": "AVENIDA BERNARDO VIEIRA",
+    "numero": "3775"
+  },
+  {
+    "UF": "RN",
+    "estabelecimento": "Shopping Natal",
+    "endereco": "AVENIDA SENADOR SALGADO FILHO",
+    "numero": "2234"
+  },
+  {
+    "UF": "RN",
+    "estabelecimento": "Shopping West Mossor\u00f3",
+    "endereco": "AVENIDA JOAO DA ESCOSSIA",
+    "numero": "1515"
+  },
+  {
+    "UF": "RO",
+    "estabelecimento": "Shopping Porto Velho",
+    "endereco": "AVENIDA RIO MADEIRA",
+    "numero": "3288"
+  },
+  {
+    "UF": "RR",
+    "estabelecimento": "Shopping Roraima Garden",
+    "endereco": "AVENIDA VILLE ROY",
+    "numero": "1544"
+  },
+  {
+    "UF": "RR",
+    "estabelecimento": "Shopping P\u00e1tio Roraima",
+    "endereco": "AVENIDA JOAO ALENCAR",
+    "numero": "2181"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Bella Citt\u00e0",
+    "endereco": "RUA CORONEL CHICUTA",
+    "numero": "355"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Erechim",
+    "endereco": "AVENIDA MAURICIO CARDOSO",
+    "numero": "123"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "POA ASHUA SHOPPING IGUATEMI",
+    "endereco": "AVENIDA JOAO WALLIG",
+    "numero": "1800"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "LOJA TRAMANDAI",
+    "endereco": "AV EMANCIPA\u00c7\u00c3O",
+    "numero": "733"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "SANTO ANGELO CENTRO",
+    "endereco": "RUA MARECHAL FLORIANO",
+    "numero": "1470"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Ot\u00e1vio Rocha - RENNER",
+    "endereco": "AVENIDA OTAVIO ROCHA",
+    "numero": "184"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Rua dos Andradas - RENNER",
+    "endereco": "RUA DOS ANDRADAS",
+    "numero": "1416"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Total - RENNER",
+    "endereco": "AVENIDA CRISTOVAO COLOMBO",
+    "numero": "545"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Rua Padre Chagas - RENNER",
+    "endereco": "RUA PADRE CHAGAS",
+    "numero": "208"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Jo\u00e3o Pessoa - RENNER",
+    "endereco": "AVENIDA JOAO PESSOA",
+    "numero": "1831"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Praia de Belas - RENNER",
+    "endereco": "AVENIDA PRAIA DE BELAS",
+    "numero": "1181"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Bourbon Ipiranga - RENNER",
+    "endereco": "AVENIDA IPIRANGA",
+    "numero": "5200"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Barrasul - RENNER",
+    "endereco": "AVENIDA DIARIO DE NOTICIAS",
+    "numero": "300"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "AEROPORTO SALGADO FILHO",
+    "endereco": "Av. Severo Dullius",
+    "numero": "90.010"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Bourbon Wallig - RENNER",
+    "endereco": "AVENIDA ASSIS BRASIL",
+    "numero": "2611"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Conjunto Comercial Canoas",
+    "endereco": "RUA 15 DE JANEIRO",
+    "numero": "481"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Park Canoas",
+    "endereco": "AVENIDA FARROUPILHA",
+    "numero": "4545"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Porto Alegre Centerlar - RENNER",
+    "endereco": "AVENIDA SERTORIO",
+    "numero": "8000"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Iguatemi Porto Alegre - RENNER",
+    "endereco": "RUA JOAO WALLIG",
+    "numero": "1800"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Bourbon S\u00e3o Leopoldo",
+    "endereco": "RUA PRIMEIRO DE MARCO",
+    "numero": "821"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Novo Hamburgo",
+    "endereco": "RUA NACOES UNIDAS",
+    "numero": "2001"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Canoas",
+    "endereco": "AVENIDA GUILHERME SCHELL",
+    "numero": "6750"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja de Gua\u00edba",
+    "endereco": "RUA SAO JOSE",
+    "numero": "515"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "ASHUA SHOPPING IGUATEMI CAXIAS",
+    "endereco": "Rodovia RSC 453  ",
+    "numero": "2780"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja de Cruz Alta ",
+    "endereco": "End. Rua Pinheiro Machado",
+    "numero": "583"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Gravata\u00ed",
+    "endereco": "AVENIDA CENTENARIO",
+    "numero": "555"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Passo Fundo Shopping",
+    "endereco": "Avenida Presidente Vargas",
+    "numero": " n\u00b0 1610"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping do Vale",
+    "endereco": "AVENIDA GAL FLORES DA CUNHA",
+    "numero": "4001"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Prataviera",
+    "endereco": "AVENIDA JULIO DE CASTILHOS",
+    "numero": "2030"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Cap\u00e3o da Canoa",
+    "endereco": "AVENIDA PARAGUASSU",
+    "numero": "2172"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja de Gramado",
+    "endereco": "AVENIDA BORGES DE MEDEIROS",
+    "numero": "2153"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping San Pelegrino",
+    "endereco": "AVENIDA RIO BRANCO",
+    "numero": "425"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Iguatemi Caxias",
+    "endereco": "RODOVIA RS 453",
+    "numero": "SN"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Pelotas",
+    "endereco": "RUA ANDRADE NEVES",
+    "numero": "1835"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Pelotas",
+    "endereco": "AVENIDA FERREIRA VIANA",
+    "numero": "1526"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Centro de Bento Gon\u00e7alves",
+    "endereco": "RUA MARECHAL DEODORO",
+    "numero": "219"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Lajeado",
+    "endereco": "ESTRADA BR-386",
+    "numero": "S/N"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Praia de Belas - ASHUA",
+    "endereco": "Av. Praia de Belas",
+    "numero": "1181"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "PARQUE SHOPPING RIO GRANDE ",
+    "endereco": "AVENIDA ENGENHEIRA LUCIA MARIA BALBELA CHIESA",
+    "numero": "2842"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Santa Cruz do Sul",
+    "endereco": "RUA MARECHAL FLORIANO",
+    "numero": "445"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Rio Grande",
+    "endereco": "RUA DOS ANDRADAS",
+    "numero": "86"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Royal Plaza",
+    "endereco": "AVENIDA NOSSA SENHORA DAS DORES",
+    "numero": "305"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja de Uruguaiana",
+    "endereco": "RUA DUQUE DE CAXIAS",
+    "numero": "1490"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Loja Santa Maria",
+    "endereco": "RUA DR BOZANO",
+    "numero": "1233"
+  },
+  {
+    "UF": "RS",
+    "estabelecimento": "Shopping Pra\u00e7a Nova Santa Maria",
+    "endereco": "RUA IRMA DULCE",
+    "numero": "550"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Na\u00e7\u00f5es Crici\u00fama",
+    "endereco": "AVENIDA JORGE ELIAS DE LUCCA",
+    "numero": "765"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Beiramar",
+    "endereco": "RUA BOCAIUVA",
+    "numero": "2468"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Neumarkt",
+    "endereco": "RUA SETE DE SETEMBRO",
+    "numero": "1213"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Cambori\u00fa. ",
+    "endereco": "AVENIDA SANTA CATARINA",
+    "numero": "1"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Farol",
+    "endereco": "AVENIDA MARCOLINO MARTINS CABRAL",
+    "numero": "2525"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Joinville Garten",
+    "endereco": "AVENIDA ROLF WIEST",
+    "numero": "S/N"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Continente Park",
+    "endereco": "MARGINAL DA BR 101",
+    "numero": "Km 211"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Itagua\u00e7u",
+    "endereco": "RUA GERONCIO THIVES",
+    "numero": "1079"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Floripa",
+    "endereco": "RODOVIA VIRGILIO VARZEA",
+    "numero": "587"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Blumenau Norte",
+    "endereco": "RODOVIA BR 470",
+    "numero": "S/N"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Joinville",
+    "endereco": "RUA VISCONDE DE TAUNAY",
+    "numero": "235"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Iguatemi Florian\u00f3polis",
+    "endereco": "AVENIDA MADRE BENVENUTA",
+    "numero": "687"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Loja Centro de Floripa",
+    "endereco": "RUA FELIPE SCHMIDT",
+    "numero": "N\u00b0 376"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Itaja\u00ed",
+    "endereco": "RUA SAMUEL HEUSI",
+    "numero": "234"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Lages Garden",
+    "endereco": "Rod. BR-282",
+    "numero": "km. 216"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Jaragu\u00e1 do Sul Park",
+    "endereco": "AVENIDA GETULIO VARGAS",
+    "numero": "268"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping P\u00e1tio Chapec\u00f3",
+    "endereco": "AVENIDA FERNANDO MACHADO",
+    "numero": "4000"
+  },
+  {
+    "UF": "SC",
+    "estabelecimento": "Shopping Via Catarina",
+    "endereco": "AVENIDA ATILIO PEDRO PAGANI",
+    "numero": "280"
+  },
+  {
+    "UF": "SE",
+    "estabelecimento": "Loja Centro de Aracaju",
+    "endereco": "AVENIDA JOAO PESSOA",
+    "numero": "82"
+  },
+  {
+    "UF": "SE",
+    "estabelecimento": "Shopping Jardins",
+    "endereco": "AVENIDA MINISTRO GERALDO BARRETO SOBRAL",
+    "numero": "215"
+  },
+  {
+    "UF": "SE",
+    "estabelecimento": "Shopping Riomar Aracaju",
+    "endereco": "AVENIDA DELMIRO GOUVEIA",
+    "numero": "400"
+  },
+  {
+    "UF": "SE",
+    "estabelecimento": "ARACAJU PARQUE SHOP",
+    "endereco": "AVENIDA JO\u00c3O RODRIGUES ",
+    "numero": "42"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": " Shopping Franca",
+    "endereco": "AVENIDA RIO NEGRO",
+    "numero": "1100"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping North Barretos",
+    "endereco": "VIA CONSELHEIRO ANTONIO PRADO",
+    "numero": "1400"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Ribeir\u00e3o Preto",
+    "endereco": "AVENIDA CEL. FERNANDO F.LEITE",
+    "numero": "1540"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Novo Shopping",
+    "endereco": "AVENIDA PRESIDENTE KENNEDY",
+    "numero": "1500"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Jaragu\u00e1 Araraquara",
+    "endereco": "AVENIDA ALBERTO BENASSI",
+    "numero": "2270"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "SHOPPING PARK CITY SUMAR\u00c9 ",
+    "endereco": "Avenida Rebou\u00e7as",
+    "numero": "3400"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "SHOPPING CENTER D",
+    "endereco": "Avenida Cruzeiro do Sul",
+    "numero": "1.100"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "SHOPPING BOA VISTA",
+    "endereco": "Rua Borba Gato",
+    "numero": "59"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Plaza Avenida",
+    "endereco": "AVENIDA JOSE MUNIA",
+    "numero": "4775"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Rio Preto",
+    "endereco": "AVENIDA BRIG. FARIA LIMA",
+    "numero": "6363"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Bauru ",
+    "endereco": "RUA HENRIQUE SAVI",
+    "numero": "55"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Na\u00e7\u00f5es Bauru",
+    "endereco": "RUA GENERAL MARCONDES SALGADO",
+    "numero": "11-39"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Iguatemi S J Rio Preto",
+    "endereco": "AVENIDA PRESIDENTE JUSC KUBITSCHEK DE OLIVEIRA",
+    "numero": "5000"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Pra\u00e7a Nova Ara\u00e7atuba",
+    "endereco": "RUA CARLOS PEREIRA DA SILVA",
+    "numero": "6001"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Cidade Sorocaba",
+    "endereco": "RUA ATANAZIO SOARES",
+    "numero": "3380"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Esplanada",
+    "endereco": "AVENIDA GISELE CONSTANTINO, 1870",
+    "numero": "1870"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Loja Centro de Marilia",
+    "endereco": "RUA 9 DE JULHO",
+    "numero": "1300, 1302"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping P\u00e1tio Ciane",
+    "endereco": "AVENIDA DOUTOR AFONSO VERGUEIRO",
+    "numero": "823"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "ASHUA SHOPPING ABC",
+    "endereco": "Av. Pereira Barreto",
+    "numero": "42"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Prudenshopping",
+    "endereco": "AVENIDA MANOEL GOULART",
+    "numero": "2400"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Botucatu",
+    "endereco": "AVENIDA MARGINAL 200",
+    "numero": "1050"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Jacare",
+    "endereco": "RUA OLIMPIO CATAO",
+    "numero": "500"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping P\u00e1tio Pinda",
+    "endereco": "RUA ALCIDES RAMOS NOGUEIRA",
+    "numero": "650"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Vale Sul",
+    "endereco": "AVENIDA ANDROMEDA",
+    "numero": "227"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Colinas",
+    "endereco": "AVENIDA SAO JOAO",
+    "numero": "2200"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Litoral Plaza",
+    "endereco": "AVENIDA AYRTON SENNA DA SILVA",
+    "numero": "N\u00ba 1511,"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Braganca Garden",
+    "endereco": "RODOVIA ALKINDAR MONTEIRO JUNQUEIRA",
+    "numero": "S/N"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Buriti Guar\u00e1. ",
+    "endereco": "AVENIDA JUSCELINO KUBITSCHEK DE OLIVEIRA",
+    "numero": "351"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Eco Valle",
+    "endereco": "ESTRADA CHIQUITO DE AQUINO",
+    "numero": "46"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "JAU SHOPPING CENTER",
+    "endereco": "\u00a0Av. Doutor Quinzinho",
+    "numero": "511"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Plaza Shopping Itu",
+    "endereco": "AVENIDA DR. ERMELINDO MAFFEI ",
+    "numero": "N\u00b0 1199"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Loja Oscar Freire.  ",
+    "endereco": "Rua Oscar Freire",
+    "numero": "585"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Parque das Bandeiras",
+    "endereco": "AVENIDA JOHN BOYD DUNLOP",
+    "numero": "3900"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Parque Dom Pedro",
+    "endereco": "AVENIDA GUILHERME CAMPOS",
+    "numero": "500"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Loja Campinas Centro",
+    "endereco": "RUA DR. COSTA AGUIAR",
+    "numero": "500"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "LOJA AEROPORTO GUARULHOS ",
+    "endereco": "Rodovia H\u00e9lio Smidt ",
+    "numero": "s/n\u00b0"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Campinas",
+    "endereco": "RUA JACY TEIXEIRA DA CAMARGO",
+    "numero": "940"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Jundia\u00ed",
+    "endereco": "AVENIDA NOVE DE JULHO",
+    "numero": "3333"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Maxi Jundia\u00ed",
+    "endereco": "AVENIDA ANTONIO FREDERICO OZANAN",
+    "numero": "6000"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Galleria",
+    "endereco": "AVENIDA SELMA PARADA BAILARINA",
+    "numero": "505"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Iguatemi Campinas",
+    "endereco": "AVENIDA IGUATEMI",
+    "numero": "777"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Metro Tucuruvi \u2013 ASHUA",
+    "endereco": "Av. Dr. Ant\u00f4nio Maria Laet",
+    "numero": "566"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Polo Indaiatuba",
+    "endereco": "ALAMEDA FILTROS MANN",
+    "numero": "670"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Analia Franco \u2013 ASHUA",
+    "endereco": "Av. Regente Feij\u00f3 ",
+    "numero": "1739"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Piracicaba",
+    "endereco": "AVENIDA LIMEIRA",
+    "numero": "722"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Tivoli",
+    "endereco": "RUA OSMIO",
+    "numero": "699"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Iguatemi Sao Carlos",
+    "endereco": "PASSEIO DOS FLAMBOYANTS",
+    "numero": "200"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Santa \u00darsula",
+    "endereco": "RUA SAO JOSE",
+    "numero": "933"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping P\u00e1tio Limeira",
+    "endereco": "RUA CARLOS GOMES",
+    "numero": "1321"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Rio Claro",
+    "endereco": "AVENIDA CONDE FRANCISCO MATARAZZO JUNIOR",
+    "numero": "205"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Intern Guarulhos",
+    "endereco": "RODOVIA PRESIDENTE DUTRA",
+    "numero": "KM397"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Parque Shopping Maia",
+    "endereco": "AVENIDA BARTHOLOMEU DE CARLOS",
+    "numero": "0"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Granja Vianna",
+    "endereco": "RODOVIA RAPOSO TAVARES",
+    "numero": "23600"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Jardim Pamplona - RENNER",
+    "endereco": "RUA PAMPLONA",
+    "numero": "1704"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Tabo\u00e3o",
+    "endereco": "RODOVIA REGIS BITENCOURT",
+    "numero": "Km 271,5 ROD BR 116"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Center Norte",
+    "endereco": "TRAVESSA CASALBUONO",
+    "numero": "120"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Suzano",
+    "endereco": "RUA SETE DE SETEMBRO",
+    "numero": "555"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Mogi",
+    "endereco": "AVENIDA VEREADOR NARCISO YAGUE GUIMARAES",
+    "numero": "1001"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Metro Itaquera  RENNER",
+    "endereco": "AVENIDA JOSE PINHEIRO BORGES",
+    "numero": "S/N"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Itaqua Garden",
+    "endereco": "ESTRADA MUNICIPAL DO MANDI",
+    "numero": "S/N"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Grand Plaza",
+    "endereco": "AVENIDA INDUSTRIAL",
+    "numero": "600/700/813"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Metro Tucuruvi ",
+    "endereco": "AVENIDA DR. ANTONIO MARIA LAET ",
+    "numero": "566"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Mooca - RENNER",
+    "endereco": "RUA CAPITAO PACHECO CHAVES",
+    "numero": "313"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Center Plaza",
+    "endereco": "AVENIDA DR.FRANCISCO MESQUITA",
+    "numero": "1000"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Santana",
+    "endereco": "AVENIDA CONSELHEIRO MOREIRA DE BARROS",
+    "numero": "2780"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Cantareira Norte - RENNER",
+    "endereco": "AVENIDA RAIMUNDO PEREIRA DE MAGALHAES",
+    "numero": "11001"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Atrium Santo Andr\u00e9",
+    "endereco": "RUA GIOVANNI BATTISTA PIRELLI",
+    "numero": "155"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Leste Aricanduva - RENNER",
+    "endereco": "AVENIDA ARICANDUVA",
+    "numero": "5555"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Loja Ibirapuera \u2013 RENNER",
+    "endereco": "AVENIDA IBIRAPUERA",
+    "numero": "2601"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping ABC",
+    "endereco": "AVENIDA PEREIRA BARRETO",
+    "numero": "42"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Metro Tatuape - RENNER",
+    "endereco": "RUA DOMINGOS AGOSTIN",
+    "numero": "91"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping An\u00e1lia Franco",
+    "endereco": "AVENIDA REGENTE FEIJO",
+    "numero": "1739"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping S\u00e3o Bernardo Plaza",
+    "endereco": "AVENIDA  ROTARY",
+    "numero": "624"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Golden Square",
+    "endereco": "AVENIDA KENNEDY",
+    "numero": "700"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Loja Domingos de Moraes - RENNER",
+    "endereco": "RUA DOMINGOS DE MORAIS",
+    "numero": "2668"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Mau\u00e1 Plaza",
+    "endereco": "AVENIDA GOVERNADOR MARIO COVAS JUNIOR",
+    "numero": "1"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Park S\u00e3o Caetano",
+    "endereco": "ALAMEDA TERRACOTA",
+    "numero": "545"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Praiamar",
+    "endereco": "RUA GUAIAO",
+    "numero": "29"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Miramar",
+    "endereco": "MARECHAL FLORIANO PEIXOT",
+    "numero": "44"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Metr\u00f3pole",
+    "endereco": "PRACA SAMUEL SABATINI",
+    "numero": "200"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Pra\u00e7a Da Moca ",
+    "endereco": "RUA MANOEL DA NOBREGA",
+    "numero": "712"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Itape Shopping",
+    "endereco": "R. DR. COUTINHO",
+    "numero": "773"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Plaza Sul- RENNER",
+    "endereco": "PRACA LEONOR  KAUPA",
+    "numero": "100"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Iguatemi JK - RENNER",
+    "endereco": "AVENIDA PRESIDENTE JUSCELINO KUBITSCHEK",
+    "numero": "2041"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Morumbi",
+    "endereco": "AVENIDA ROQUE PETRONI JUNIOR",
+    "numero": "1089"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping SP Market",
+    "endereco": "AVENIDA DAS NACOES UNIDAS",
+    "numero": "22540"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Vila Ol\u00edmpia - RENNER",
+    "endereco": "RUA OLIMPIADAS",
+    "numero": "360"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Interlagos ",
+    "endereco": "AVENIDA INTERLAGOS",
+    "numero": "2255"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Via Vale Garden",
+    "endereco": "AVENIDA DOM PEDRO I",
+    "numero": "7181"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Tiet\u00ea Plaza - RENNER",
+    "endereco": "AVENIDA RAIMUNDO PEREIRA DE MAGALHAES",
+    "numero": "1465"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Centervale",
+    "endereco": "AVENIDA D. BENEDITO MATARAZZO",
+    "numero": "9403"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Continental - RENNER. ",
+    "endereco": "AVENIDA LEAO MACHADO",
+    "numero": "100"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Center Penha",
+    "endereco": "RUA DR JOAO RIBEIRO",
+    "numero": "304"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping West Plaza",
+    "endereco": "AVENIDA ANTARTICA",
+    "numero": "380"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Bourbon Pomp\u00e9ia - RENNER",
+    "endereco": "RUA TURIASSU",
+    "numero": "2100"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Taubat\u00e9",
+    "endereco": "AVENIDA CHARLES SCHNNEIDER",
+    "numero": "1700"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "SHOPPING CENTER OURINHOS",
+    "endereco": "Rua Cardoso Ribeiro",
+    "numero": "970"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "ASHUA SHOPPING SP MARKET",
+    "endereco": "Av das Na\u00e7\u00f5es Unidas",
+    "numero": "22.540"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Raposo - RENNER.",
+    "endereco": "RODOVIA RAPOSO TAVARES",
+    "numero": "km 14,5"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Morumbi Town",
+    "endereco": "AVENIDA GIOVANNI GRONCHI",
+    "numero": "5930"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Eldorado",
+    "endereco": "AVENIDA REBOUCAS",
+    "numero": "3970"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Butant\u00e3 ",
+    "endereco": "AVENIDA PROFESSOR FRANCISCO MORATO",
+    "numero": "2718"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Uni\u00e3o Osasco",
+    "endereco": "AVENIDA DOS AUTONOMISTAS",
+    "numero": "1400"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Plaza Carapicu\u00edba",
+    "endereco": "ESTRADA ERNESTINA VIEIRA",
+    "numero": "149"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Jardim Sul",
+    "endereco": "AVENIDA GIOVANNI GRONCHI",
+    "numero": "5819"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Super Osasco",
+    "endereco": "AVENIDA DOS AUTONOMISTAS",
+    "numero": "1768/1828"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Parque Barueri",
+    "endereco": "RUA GENERAL DE DIVISAO PEDRO RODRIGUES DA SILVA",
+    "numero": "400"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Iguatemi Alphaville",
+    "endereco": "ALAMEDA RIO NEGRO",
+    "numero": "111"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Valinhos",
+    "endereco": "RUA PAIQUERE",
+    "numero": "200"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "SHOPPING IBIRAPUERA ",
+    "endereco": "Avenida Ibirapuera",
+    "numero": "3103"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Loja Avenida Paulista - RENNER",
+    "endereco": "AVENIDA PAULISTA",
+    "numero": "1106"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Tambor\u00e9",
+    "endereco": "AVENIDA PIRACEMA",
+    "numero": "669"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping P\u00e1tio Paulista - RENNER",
+    "endereco": "RUA TREZE DE MAIO",
+    "numero": "1947"
+  },
+  {
+    "UF": "SP",
+    "estabelecimento": "Shopping Light",
+    "endereco": "RUA CORONEL XAVIER DE TOLEDO",
+    "numero": "23"
+  },
+  {
+    "UF": "TO",
+    "estabelecimento": "Shopping Capim Dourado",
+    "endereco": "AVENIDA 107 NORTE AVENIDA JUSCELINO KUBITSCHEK",
+    "numero": "SN"
+  }
+]
